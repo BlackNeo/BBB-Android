@@ -3,8 +3,8 @@ define( function ( require ) {
 	"use strict";
 
 	return {
-		app_slug : 'bibine-sports',
-		wp_ws_url : 'https://bibinesports.fr/wp-appkit-api/bibine-sports',
+		app_slug : 'bibine-sport-android',
+		wp_ws_url : 'https://bibinesports.fr/wp-appkit-api/bibine-sport-android',
 		wp_url : 'https://bibinesports.fr',
 		theme : 'q-android',
 		version : '1.0.0',
