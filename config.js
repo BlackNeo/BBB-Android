@@ -6,7 +6,7 @@ define( function ( require ) {
 		app_slug : 'bibine-sport-android',
 		wp_ws_url : 'https://bibinesports.fr/wp-appkit-api/bibine-sport-android',
 		wp_url : 'https://bibinesports.fr',
-		theme : 'nightly-141',
+		theme : 'q-android',
 		version : '1',
 		app_type : 'phonegap-build',
 		app_title : 'Bibine Sports',

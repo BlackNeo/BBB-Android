@@ -65,7 +65,7 @@ a {
     z-index: 0; /* Positionned under the app's canvas / z-index relative to #app-layout */
     overflow-y: scroll;
     -webkit-overflow-scrolling:touch; /* Enables inertial scrolling */
-    background-color: #FCFCFC;
+    background-color: #e9e8f0;
 }
 
 #app-menu .app-version{
@@ -223,7 +223,7 @@ a {
  */
 
 .app-header, .panel-header {
-	background-color: #424242;
+	background-color: #472270;
     box-shadow: 0 2px 5px rgba(0,0,0,0.26);
     color: #fff;
 }
